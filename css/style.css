@@ -1,0 +1,16 @@
+html, body { height: 100%; }
+body { font-family: 'Arial', sans-serif; letter-spacing: .15ex; font-weight: 400; font-size: 100%; -webkit-font-smoothing: antialiased; padding: 0 35px;}
+
+header { padding-top: 25px; padding-bottom: 5px; }
+
+h1,
+h2,
+h3 { font-weight: 400; margin: 0; line-height: 1.5; }
+
+h1 { font-size: 1.25rem }
+h2 { font-size: 1.2rem }
+h3 { font-size: 1.05rem }
+
+a { color: #000; text-decoration: none }
+a:focus,
+a:hover { color: #fff; -webkit-transition: .5s ease-out; -moz-transition: .5s ease-out; -ms-transition: .5s ease-out; -o-transition: .5s ease-out; transition: .5s ease-out }
