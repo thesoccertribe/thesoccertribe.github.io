@@ -25,17 +25,17 @@ a:hover { color: #fff; -webkit-transition: .5s ease-out; -moz-transition: .5s ea
     font-family: 'Noto Sans Japanese';
     font-style: normal;
     font-weight: 700;
-    src: url('../font/NotoSansCJKjp-Bold.eot');
-    src: url('../font/NotoSansCJKjp-Bold.eot?#iefix') format('embedded-opentype'),
-    url('../font/NotoSansCJKjp-Bold.woff') format('woff'),
-    url('../font/NotoSansCJKjp-Bold.ttf')  format('truetype');
+    src: url('../css/font/NotoSansCJKjp-Bold.eot');
+    src: url('../css/font/NotoSansCJKjp-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../css/font/NotoSansCJKjp-Bold.woff') format('woff'),
+    url('../css/font/NotoSansCJKjp-Bold.ttf')  format('truetype');
 }
 @font-face {
     font-family: 'Noto Sans Japanese';
     font-style: normal;
     font-weight: 900;
-    src: url('../font/NotoSansCJKjp-Black.eot');
-    src: url('../font/NotoSansCJKjp-Black.eot?#iefix') format('embedded-opentype'),
-    url('../font/NotoSansCJKjp-Black.woff') format('woff'),
-    url('../font/NotoSansCJKjp-Black.ttf')  format('truetype');
+    src: url('../css/font/NotoSansCJKjp-Black.eot');
+    src: url('../css/font/NotoSansCJKjp-Black.eot?#iefix') format('embedded-opentype'),
+    url('../css/font/NotoSansCJKjp-Black.woff') format('woff'),
+    url('../css/font/NotoSansCJKjp-Black.ttf')  format('truetype');
 }
