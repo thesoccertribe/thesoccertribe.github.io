@@ -16,6 +16,8 @@ h1 { font-size: 2rem }
 h2 { font-size: 1.2rem }
 h3 { font-size: 1.05rem }
 
+mb1 {margin-bottom: 1.5em }
+
 a { color: #000; text-decoration: none }
 a:focus,
 a:hover { color: #fff; -webkit-transition: .5s ease-out; -moz-transition: .5s ease-out; -ms-transition: .5s ease-out; -o-transition: .5s ease-out; transition: .5s ease-out }
