@@ -1,5 +1,11 @@
 html, body { height: 100%; }
-body { font-family: 'Arial', sans-serif; letter-spacing: .15ex; font-weight: 400; font-size: 100%; -webkit-font-smoothing: antialiased; padding: 0 35px;}
+body { font-family: 'Noto Sans Japanese';
+       font-style: normal;
+       font-weight: 900;
+       letter-spacing: .15ex;
+       font-size: 100%;
+       -webkit-font-smoothing: antialiased;
+       padding: 0 35px;}
 
 header { padding-top: 25px; padding-bottom: 5px; }
 
@@ -14,3 +20,22 @@ h3 { font-size: 1.05rem }
 a { color: #000; text-decoration: none }
 a:focus,
 a:hover { color: #fff; -webkit-transition: .5s ease-out; -moz-transition: .5s ease-out; -ms-transition: .5s ease-out; -o-transition: .5s ease-out; transition: .5s ease-out }
+
+@font-face {
+    font-family: 'Noto Sans Japanese';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../font/NotoSansCJKjp-Bold.eot');
+    src: url('../font/NotoSansCJKjp-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../font/NotoSansCJKjp-Bold.woff') format('woff'),
+    url('../font/NotoSansCJKjp-Bold.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Noto Sans Japanese';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../font/NotoSansCJKjp-Black.eot');
+    src: url('../font/NotoSansCJKjp-Black.eot?#iefix') format('embedded-opentype'),
+    url('../font/NotoSansCJKjp-Black.woff') format('woff'),
+    url('../font/NotoSansCJKjp-Black.ttf')  format('truetype');
+}
