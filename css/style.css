@@ -1,5 +1,5 @@
 html, body { height: 100%; }
-body { font-family: 'Noto Sans Japanese';
+body { font-family: 'Noto Sans Japanese', "Arial";
        font-style: normal;
        font-weight: 900;
        letter-spacing: .15ex;
